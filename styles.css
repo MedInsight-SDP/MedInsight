@@ -1,0 +1,31 @@
+.login-text {
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+
+.login-container {
+    box-shadow: 0 5px 25px 10px #aaa;
+    padding: 20px;
+    width: 400px;
+
+}   
+
+.login-container:hover {
+    box-shadow: 0 10px 25px 10px #aaa;
+
+}
+
+.create-Account-text {
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+
+.create-container {
+    box-shadow: 0 5px 25px 10px #aaa;
+    padding: 20px;
+    width: 400px;
+}
+
+.create-container:hover {
+    box-shadow: 0 10px 25px 10px #aaa;
+}
