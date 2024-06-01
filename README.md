@@ -3,7 +3,7 @@
 <img src="https://img.freepik.com/premium-vector/medical-team-doctor-nurse-assistant-cartoon-character-vector_18981-791.jpg?w=2000" alt="logo" width="150" height="150">
  <br>
 </div>
-<h1 align="center"><b>Dr.Assistant</b></h1>
+<h1 align="center"><b>MedInsight</b></h1>
 <div align="center">
 <br />
 <br>
