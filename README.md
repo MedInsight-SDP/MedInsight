@@ -58,11 +58,6 @@ side it helps the patient to connect to the specialised doctor, get there querie
 <img src="https://user-images.githubusercontent.com/65694523/232080956-8f03147f-e942-4ed1-801b-8a14c5a58324.png">
 <br>
  <br>
- <h2>Malignant Detector Screenshot</h2>
-<br>
-<img src="https://user-images.githubusercontent.com/65694523/232081298-f85aa4c6-0c43-4689-928c-f270e4b2db5e.png">
-<br>
- <br>
  <h2>Heart Disease Predictor Screenshot</h2>
 <br>
 <img src="https://user-images.githubusercontent.com/65694523/232081613-32c3520d-fc56-4030-a5db-8dfd9cd302c0.png">
@@ -80,5 +75,6 @@ side it helps the patient to connect to the specialised doctor, get there querie
 <ul>
 <li><a href="https://www.linkedin.com/in/amanagrawal20156/">Aman Agrawal</li>
 <li><a href="https://www.linkedin.com/in/rajesh-kumar-sahoo-9b3095189/">Rajesh Kumar Sahoo</li>
-<li><a href="https://www.linkedin.com/in/kalingaabhisek/">Kalinga Abhisek</li>
+ <li><a href=''>Lokesh kumar Padhi</li>
+ <li><a href=''>Mukesh Kumar Dash</li>
 </ul>
